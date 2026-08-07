@@ -24,7 +24,7 @@ machining, materials, welding, and manufacturing processes.
 
 Master's thesis in Mechanical Manufacturing Engineering.
 
-📄 [Read the Thesis](Master'sThesis/Master'sThesis-TOUCHIIdriss.pdf)
+📄 [Read the Thesis](Master's-Thesis/Master's Thesis -  TOUCHI Idriss.pdf)
 
 ---
 

@@ -44,7 +44,7 @@ Frères Mentouri University Constantine 1 – ISTA
 
 
 And this is my Bachelor's Degree Research with a title "Solve a problem in welding the Godet" in SOFAR Company
-📄 [Read it here](Bachelor'sDegreeResearch/Bachelor'sDegreeResearch.pdf)
+📄 [Read it here](Bachelor'sDegree/Bachelor'sDegreeResearch.pdf)
 ---
 
 ## 📌 About This Repository

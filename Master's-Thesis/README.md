@@ -1,1 +1,1 @@
-** This is my master Thesis that i did it by my self with a title "Effect of machining vibration on cutting temperature : A Comparison between dry machining with industrial oil - case study of turning"  **
+***This is my master Thesis that i did it by my self with a title "Effect of machining vibration on cutting temperature : A Comparison between dry machining with industrial oil - case study of turning"***
